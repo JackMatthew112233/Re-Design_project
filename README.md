@@ -1,5 +1,5 @@
 # Re-Design_project
- re-designing websitesthat we think visually unsuitable
+ re-designing websites that we think visually unsuitable
 # The appereance on the websites before i redesigned it
 ![pict1](https://i.pinimg.com/736x/65/8e/97/658e97ab7b7c64b9d4427abf529f3f53.jpg)
 # 2nd
